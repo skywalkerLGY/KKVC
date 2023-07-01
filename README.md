@@ -1,0 +1,31 @@
+# KKVC
+使用VITS/RVC进行恋活语音转换     koikatsu voice conversion using VITS/RVC     
+Welcome to the KKVC wiki!
+![0-0](https://github.com/skywalkerLGY/KKVC/assets/63067941/03525ae3-279a-4740-af1c-61039200be93)
+![0-1](https://github.com/skywalkerLGY/KKVC/assets/63067941/01195e10-3735-4edf-a117-e2177981ae0a)
+![1](https://github.com/skywalkerLGY/KKVC/assets/63067941/4184f63a-4f15-404e-af53-2a430a1cffc3)
+![2](https://github.com/skywalkerLGY/KKVC/assets/63067941/fb66f5b0-d82a-4e28-beb0-8cf9d21a16f1)
+![3](https://github.com/skywalkerLGY/KKVC/assets/63067941/841e7600-d9ba-449f-b1c3-da08b2ab942a)
+![3-1](https://github.com/skywalkerLGY/KKVC/assets/63067941/5ce40787-ce00-4c9b-88c8-ec4d25fe9ca4)
+![3-2](https://github.com/skywalkerLGY/KKVC/assets/63067941/b590969b-5fb0-4cab-bbba-cde5e9b69ea1)
+![3-3](https://github.com/skywalkerLGY/KKVC/assets/63067941/4bb6d2c9-8e73-4c8c-a4c0-7ed856f899da)
+![3-4](https://github.com/skywalkerLGY/KKVC/assets/63067941/7c8b3a04-89b3-4b1f-9bdf-5baf902ac88c)
+![3-5](https://github.com/skywalkerLGY/KKVC/assets/63067941/ae19752b-3263-40b7-8094-586f5edc5aa1)
+![3-6](https://github.com/skywalkerLGY/KKVC/assets/63067941/0e786623-1d3e-410b-85ce-70c4f0bcce72)
+![4](https://github.com/skywalkerLGY/KKVC/assets/63067941/68c84ee9-200f-4d1d-9565-afc0cea3b526)
+![5](https://github.com/skywalkerLGY/KKVC/assets/63067941/0741725a-916c-4d02-8c4b-7982145f0f05)
+![6](https://github.com/skywalkerLGY/KKVC/assets/63067941/4641f5db-a2b1-4747-ad1f-231ad6edadf7)
+![7](https://github.com/skywalkerLGY/KKVC/assets/63067941/3b9c32b4-9d5d-478a-be44-ca97184143d7)
+![8](https://github.com/skywalkerLGY/KKVC/ass
+![9](https://github.com/skywalkerLGY/KKVC/assets/63067941/9c174f4e-b147-4b10-9d3e-f6795c8d24f3)
+ets/63067941/499db725-ec13-4ddb-a2ab-579462c55d58)
+![10](https://github.com/skywalkerLGY/KKVC/assets/63067941/bcfb2e10-6ee3-4bcc-801a-96c47741a4a6)
+![11](https://github.com/skywalkerLGY/KKVC/assets/63067941/dc9c9839-87fb-4f20-8445-1216d4f73a82)
+![11-1](https://github.com/skywalkerLGY/KKVC/assets/63067941/c13c42b8-0b1a-418f-990e-fc5bcb7a79f7)
+![12](https://github.com/skywalkerLGY/KKVC/assets/63067941/e31a8e8a-0394-4e32-b76c-8c590046be5c)
+![13](https://github.com/skywalkerLGY/KKVC/assets/63067941/920ca3b8-2352-4388-be6a-f29e5bd18210)
+![14](https://github
+![15](https://github.com/skywalkerLGY/KKVC/assets/63067941/afe56ac3-5ab1-4dc8-80f1-774992ed07cb)
+.com/skywalkerLGY/KKVC/assets/63067941/f197d71e-c4c9-4fc3-a8b8-797ee673fdf4)
+![16](https://github.com/skywalkerLGY/KKVC/assets/63067941/45364b9e-d07a-4e62-8c36-5d427e573c3f)
+![17](https://github.com/skywalkerLGY/KKVC/assets/63067941/75ccf74a-560c-4d98-966f-5fa6c937e21b)
